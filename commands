@@ -1,0 +1,4 @@
+router ospf 1
+router-id 192.168.164.137
+network 0.0.0.0 0.0.0.0 area 0
+
